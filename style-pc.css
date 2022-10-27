@@ -1,0 +1,537 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Megrim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Monoton&display=swap');
+
+* {
+	background-color: #ece8e1;
+	margin: 0 ;
+	padding: 0 ;
+	/*overflow-x: hidden; */
+	background: url(images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: visible;
+  /*overflow-x: hidden;*/
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+.button5 {
+	background-color: red;
+    color: white;
+    border: none;
+    padding: 2vw 6vw;
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    left: 0;
+    width: 33vw;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.button-wrapper {
+	position: ;
+	left: 0;
+	right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+.nav-div {
+	position: fixed;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: 2;
+	padding: 1rem;
+	background-color: #111;
+}
+
+.nav2 {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav3 {
+	display: inline;
+	margin: 1em;
+}
+
+.nav4 {
+	text-decoration: none;
+	color: red;
+	font-size: x-large;
+}
+
+.sign {
+	/*position: relative;
+	right: -6vw;*/
+	margin-left: 2vw;
+
+}
+
+.sign:link, .sign:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 0.5vw 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+}
+
+.sign0 {
+	/*position: relative;
+    left: -6vw;*/
+    font-family: 'Megrim', cursive;
+    /* text-align: left; */
+    top: 0.3vw;
+    color: wheat;
+    font-weight: bold;
+    margin-right: 2vw;
+    position: relative;
+}
+
+.menu5:hover {
+	color: white;
+}
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*LINES*/
+
+.v1 {
+  border-left: 0.1vw solid white;
+  height: 100vw;
+  position: absolute;
+  top: 0vw;
+  left: 12vw;
+}
+
+.v11 {
+  border-left: 0.1vw solid black;
+  height: 100vw;
+  position: absolute;
+  top: 55.5vw;
+  left: 12vw;
+}
+
+.v111 {
+  border-left: 0.1vw solid white;
+  height: 150vw;
+  position: absolute;
+  top: 129.5vw;
+  left: 12vw;
+}
+
+.v1111 {
+  border-left: 0.1vw solid black;
+  height: 100vw;
+  position: absolute;
+  top: 213.3vw;
+  left: 12vw;
+}
+
+.v2 {
+  border-left: 0.1vw solid white;
+  height: 100vw;
+  position: absolute;
+  top: 0vw;
+  left: 30vw;
+}
+
+.v22 {
+  border-left: 0.1vw solid black;
+  height: 100vw;
+  position: absolute;
+  top: 55.5vw;
+  left: 30vw;
+}
+
+.v222 {
+  border-left: 0.1vw solid white;
+  height: 150vw;
+  position: absolute;
+  top: 129.5vw;
+  left: 30vw;
+}
+
+.v2222 {
+  border-left: 0.1vw solid black;
+  height: 100vw;
+  position: absolute;
+  top: 213.3vw;
+  left: 30vw;
+}
+
+.v3 {
+  border-left: 0.1vw solid white;
+  height: 100vw;
+  position: absolute;
+  top: 0vw;
+  right: 15vw;
+
+}
+
+.v33 {
+  border-left: 0.1vw solid black;
+  height: 100vw;
+  position: absolute;
+  top: 55.5vw;
+  right: 15vw;
+}
+
+.v333 {
+  border-left: 0.1vw solid white;
+  height: 150vw;
+  position: absolute;
+  top: 129.5vw;
+  right: 15vw;
+}
+
+.v3333 {
+  border-left: 0.1vw solid black;
+  height: 100vw;
+  position: absolute;
+  top: 213.3vw;
+  right: 15vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.weare {
+	font-family: 'Londrina Outline', cursive;
+	font-size: 20vw;
+	color: #0000003b;
+}
+
+#we1 {
+	left: 10vw;
+    position: relative;
+}
+
+#we2 {
+	position: relative;
+    text-align: center;
+}
+
+#we3 {
+	position: relative;
+	text-align: right;
+	right: 10vw;
+}
+
+
+#section-text {
+	font-family: 'Alfa Slab One', cursive;
+	color: red;
+    font-family: sans-serif;
+    position: absolute;
+    display: flex;
+    left: 12vw;
+    font-size: 5vw;
+    z-index: 1;
+    margin-top: 8vw;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: .2vw;
+}
+
+.s3s {
+	position: absolute;
+    display: flex;
+}
+
+.s3s img {
+	width: 25%;
+	height: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+.footer-t {
+	font-size: larger;
+	position: relative;
+	display: flex;
+	justify-content: center;
+}
+
+
+.S25 {
+	position: absolute;
+	top: 14vw;
+	left: 0;
+	right: 0;
+
+}
+
+.marq {
+	position: absolute;
+    top: 20.5vw;
+    font-size: xxx-large;
+    width: 40%;
+    left: 0;
+    right: 0 !important;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Bungee Spice', cursive;
+}
+
+
+.marq-div {
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*SECTIONS*/
+
+
+.sections {
+  margin: 0;
+  padding: ;
+}
+
+.about-h {
+  color: #785BEE;
+  font-family: glodok, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
+.event-h {
+  color: #FFE600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*FOOTER*/
+
+
+#footer0 {
+	box-sizing: border-box;
+	background-color:  #785BEE;
+	color: wheat;
+	position: relative;
+	width: 100%;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	justify-content: center !important;	
+
+}
+
+.left-f {
+	position: relative;
+    justify-content: center !important;
+
+  border-top-style: hidden !important;
+  border-right-style: solid !important;
+  border-bottom-style: hidden !important;
+  border-left-style: hidden !important;	
+
+}
+
+
+
+.right-f {
+	position: relative;
+	justify-content: left !important;
+	/*background-color: black;	*/
+
+}
+
+.af {
+	color: #FFE600;
+	text-decoration: none;
+	position: relative;
+	display: block;
+	text-align: center;
+	font-size: 2em;
+	padding: 1rem;
+}
+
+.af:hover {
+	color: #785BEE;
+	background-color: #FFE600;
+	transition-delay: 0.2s;
+	-webkit-transition: .2s all;   
+    -webkit-transition-delay: .2s; 
+    -moz-transition: .2s all;   
+    -moz-transition-delay: .2s; 
+    -ms-transition: .2s all;   
+    -ms-transition-delay: .2s; 
+    -o-transition: .2s all;   
+    -o-transition-delay: .2s; 
+    transition: .2s all;   
+    transition-delay: .2s; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*ABOUT & CONTACT*/
+
+
+
+/*ENDINGS*/
+
+
+.small-screen {
+	display: none;
+}
+
+@media only screen and (max-width: 960px) {
+        .large-screen {display: none;}
+   }
+
+@media only screen and (min-width: 960px) {
+        .small-screen {display: none;}
+   }

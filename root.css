@@ -1,0 +1,27 @@
+:root {
+--colour-white: #ffffff;
+    --colour-orange: #FB5E02;
+    --colour-yellow: #FFE600;
+    --colour-purple: #785BEE;
+    --colour-light-purple: #AEB0ED;
+    --colour-turquoise: #0EAAB1;
+    --colour-light-turquoise: #AADAD9;
+    --colour-dark-blue: #09204C;
+    --colour-dark-grey: #262626;
+    --colour-grey: #595959;
+    --font-euclid-circular-a: Euclid Circular A;
+    --font-stock-pay-gravity: Stock Pay Gravity;
+    --font-weight-semi-bold: 600;
+    --font-weight-bold: Euclid Circular A Bold;
+    --font-weight-italic: Euclid Circular A Italic;
+    --font-weight-heavy: Euclid Circular A Bold;
+    --transition-speed-default: 250ms;
+    --transition-speed-fast: 100ms;
+    --transition-speed-slow: 500ms;
+    --transition-ease: cubic-bezier(0.65,0,0.35,1);
+    --padding-row: 5vw;
+    --padding-row-neg: -5vw;
+    --padding-col: 2vw;
+}
+
+
