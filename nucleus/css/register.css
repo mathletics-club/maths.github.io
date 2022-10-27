@@ -1,0 +1,160 @@
+
+[lang]:not([lang=vi]):not([lang=ru]):not([lang=ar]) .PrimaryButton-module--primaryButton--8GMbz {
+    font-family: DINNextW05-Bold,arial,georgia,sans-serif;
+}
+@media (min-width: 1024px)
+[dir=ltr] .HomeHero-module--downloadButton--s-zGv {
+    left: auto;
+}
+@media (min-width: 1024px)
+[dir] .HomeHero-module--downloadButton--s-zGv {
+    margin: 4.25rem 0 6rem;
+}
+.in-view .HomeHero-module--downloadButton--s-zGv {
+    opacity: 1;
+}
+[dir] .HomeHero-module--downloadButton--s-zGv {
+    -webkit-transition: opacity .7s ease-out .2s;
+    transition: opacity .7s ease-out .2s;
+}
+.PrimaryButton-module--primaryButton--8GMbz.PrimaryButton-module--red--Upb0h {
+    color: #ece8e1;
+}
+[dir] .PrimaryButton-module--primaryButton--8GMbz {
+    border: 0;
+    cursor: pointer;
+    padding: 0.7rem;
+    text-align: center;
+}
+[dir=ltr] .button {
+    text-align: left;
+}
+[dir] .button {
+    background: none;
+    border: none;
+    padding: 0;
+}
+[dir] .button, [dir] button {
+    cursor: pointer;
+}
+@media (min-width: 1024px)
+.HomeHero-module--downloadButton--s-zGv {
+    min-width: 26rem;
+    position: relative;
+    width: auto;
+}
+.HomeHero-module--downloadButton--s-zGv {
+    bottom: 2.75rem;
+    opacity: 0;
+    position: absolute;
+    width: 28.8rem;
+}
+@media (min-width: 1024px)
+.PrimaryButton-module--primaryButton--8GMbz {
+    font-size: 1.4rem;
+}
+.PrimaryButton-module--primaryButton--8GMbz {
+    color: #0f1923;
+    display: block;
+    font-size: 1.9rem;
+    position: relative;
+    text-transform: uppercase;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: ;
+    font-weight: ;
+    font-stretch: ;
+    font-size: ;
+    font-family: ;
+    text-rendering: auto;
+    color: buttontext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    background-color: buttonface;
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+.HomeHero-module--sectionWrapper--lvg6e {
+    -ms-flex-align: start;
+    -ms-flex-pack: center;
+    align-items: flex-start;
+    color: #ece8e1;
+    display: -ms-flexbox;
+    display: flex;
+    height: 49rem;
+    justify-content: center;
+}
+[lang]:not([lang=vi]):not([lang=ar]) body {
+    font-family: DINNextW1G,arial,georgia,sans-serif;
+}
+
+[dir] .PrimaryButton-module--primaryButton--8GMbz:before {
+    border-bottom: 0;
+}
+[dir=ltr] .PrimaryButton-module--primaryButton--8GMbz:after, [dir=ltr] .PrimaryButton-module--primaryButton--8GMbz:before {
+    left: 0;
+}
+[dir] .PrimaryButton-module--primaryButton--8GMbz:after, [dir] .PrimaryButton-module--primaryButton--8GMbz:before {
+    border: 1px solid hsla(38,22%,90%,.5);
+}
+.PrimaryButton-module--primaryButton--8GMbz:before {
+    top: 0;
+}
+.PrimaryButton-module--primaryButton--8GMbz:after, .PrimaryButton-module--primaryButton--8GMbz:before {
+    content: "";
+    display: block;
+    height: calc(50% - 0.4rem);
+    position: absolute;
+    width: 100%;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+[dir] .PrimaryButton-module--primaryButton--8GMbz:after {
+    border-top: 0;
+}
+[dir=ltr] .PrimaryButton-module--primaryButton--8GMbz:after, [dir=ltr] .PrimaryButton-module--primaryButton--8GMbz:before {
+    left: 0;
+}
+[dir] .PrimaryButton-module--primaryButton--8GMbz:after, [dir] .PrimaryButton-module--primaryButton--8GMbz:before {
+    border: 1px solid hsla(38,22%,90%,.5);
+}
+.PrimaryButton-module--primaryButton--8GMbz:after {
+    bottom: 0;
+}
+.PrimaryButton-module--primaryButton--8GMbz:after, .PrimaryButton-module--primaryButton--8GMbz:before {
+    content: "";
+    display: block;
+    height: calc(50% - 0.4rem);
+    position: absolute;
+    width: 100%;
+}
+*, :after, :before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}

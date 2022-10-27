@@ -1,0 +1,47 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-container>div {
+  /*background-color: lightgreen;*/
+  margin: 10px;
+  text-align: center;
+}
+
+svg {
+    /*border: dashed 1px lightblue;*/
+	margin: auto;
+	display: block;
+	width: 200px;
+	height: 200px;
+	fill: none;
+	
+}
+
+
+.face{
+	fill: lightgreen;
+	fill: transparent;
+	fill-opacity: .5;
+	stroke: #5d00a9;
+	stroke: #FFE600;
+	stroke:#AEB0ED;
+	stroke-width: 4px;
+}
+.label{
+	text-anchor: middle;
+	font-size: 6pt;
+	font-weight: bold;
+}
+
+.chkbox {
+	margin: auto;
+	text-align: left;
+	background-color: #f1f1f1;
+}
+  
+h3 {
+	margin: auto;
+	text-align: center;
+}
